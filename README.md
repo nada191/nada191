@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @nada191
-- 👀 I’m interested in AI and Data Science projects
-- 🌱 I’m currently learning DevOps
 - 📫 How to reach me : nada.benali@ensi-uma.tn
 
 <!---
